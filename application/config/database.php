@@ -65,10 +65,10 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 
-	'hostname' => '172.10.27.9',
-	'username' => 'devel',
-	'password' => 'devel',
-	'database' => 'core_ci_devel', 
+	'hostname' => '',
+	'username' => '',
+	'password' => '',
+	'database' => '', 
 	'dbdriver' => 'mysql',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
